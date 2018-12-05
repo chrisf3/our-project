@@ -1,2 +1,3 @@
-print("x")
-print("we made it!")
+x = input("What's your name?")
+print("Hello",str(x) + "!")
+print("We made it!")
