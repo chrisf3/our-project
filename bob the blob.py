@@ -1,2 +1,2 @@
-print "x"
-print "we made it!"
+print("x")
+print("we made it!")
