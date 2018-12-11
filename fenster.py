@@ -11,6 +11,6 @@ clock = pygame.time.Clock()
 while True:
     if pygame.event.peek(pygame.QUIT) or pygame.event.peek(pygame.KEYDOWN):
         break
-    pygame.event.pump()
+    #pygame.event.pump()
     clock.tick(30)
 pygame.display.quit()
